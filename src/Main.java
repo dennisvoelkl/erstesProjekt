@@ -56,5 +56,7 @@ public class Main {
         // Länge des Arrays ausgeben
         System.out.println("Länge des Arrays = " + xyz.length);
 
+        System.out.println("Marc war hier");
+
     }
 }
